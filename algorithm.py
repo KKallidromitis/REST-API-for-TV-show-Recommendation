@@ -98,4 +98,3 @@ def main(username):
     profile_json=fun_profile(username)
     end = time.time()
     return (1,end-start,profile_json,final_pred,favs)
-
