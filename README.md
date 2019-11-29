@@ -6,7 +6,7 @@ The valid_usernames.txt includes a list with all the compatible myanimelist webs
 
 [Example Link Deployed on GCP (username=FrostCat)](https://anirec.appspot.com/FrostCat)
 
-!!PLEASE NOTETHE MYANIME LIST JIKAN API IS DOWN AND IS UNABLE TO RECIEVE DATA!!
+!!PLEASE NOTE THE MYANIMELIST JIKAN API IS DOWN AND IS UNABLE TO RECIEVE DATA!!
 
 I have added some JS to display the results on my [github page](https://kkarraskallidromitis.github.io/projects/ainime)
 
