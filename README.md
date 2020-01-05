@@ -6,11 +6,9 @@ The valid_usernames.txt includes a list with all the compatible myanimelist webs
 
 [Example Link Deployed on GCP (username=FrostCat)](https://anirec.appspot.com/FrostCat)
 
-!!PLEASE NOTE THE MYANIMELIST JIKAN API IS DOWN AND IS UNABLE TO RECIEVE DATA!!
-
-I have added some JS to display the results on my [github page](https://kkarraskallidromitis.github.io/projects/ainime)
+I have added some JS to display the results on my [github page](https://kkallidromitis.github.io/projects/ainime)
 
 
 The Jupyter Notebook includes data analytics as well as machine learning algorithms that recommend anime according to a scaled down version of the datset. [Source](https://www.kaggle.com/azathoth42/myanimelist)
 
-Code for the website is on my [personal repo](https://github.com/KKarrasKallidromitis/KKarrasKallidromitis.github.io/tree/master/projects/ainime)
+Code for the website is on my [personal repo](https://github.com/KKallidromitis/KKallidromitis.github.io/tree/master/projects/ainime)
