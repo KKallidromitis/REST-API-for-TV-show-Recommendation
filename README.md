@@ -1,4 +1,4 @@
-# REST-API-for-Anime-Recommendation
+# REST-API-for-TV Show-Recommendation
 
 The main.py is the flask microframework that will be used to deploy the web app and handles the responses of the API.
 The algorithm.py includes the machine learning ranking algorithm that is used to process inputs and create outputs.
